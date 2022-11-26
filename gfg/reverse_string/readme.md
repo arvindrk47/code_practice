@@ -2,9 +2,9 @@
 
 You are given a string s. You need to reverse the string.
 
-Example 1:
+### Example 1:
 
-Input:
+## Input
 s = Geeks
 Output: skeeG
 Example 2:
