@@ -1,11 +1,11 @@
 ### 1. Square pattern in C++
 The most straightforward pattern that you can start with is a square pattern in C++.
 
-`*****
-*****
-*****
-*****
-*****`
+`*****`
+`*****`
+`*****`
+`*****`
+`*****`
 It is a pattern that has a shape of square or rectangle.
 
 Here are the steps to create the square pattern in C++:
