@@ -1,0 +1,2 @@
+### bubblesort – Bubble sorts a list
+This package sorts a list of TEX items {item 1}...{item k} in "increasing" order where "increasing" is determined by a comparator macro. By default it sorts real numbers with the usual meaning of "increasing" but some other examples are discussed in the documentation. A second macro is included which sorts one list and applies the same permutation to a second list.
